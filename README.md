@@ -1,2 +1,2 @@
 # stripe
-simple api for stripe payment gateway 
+APIs for stripe payment gateway.
